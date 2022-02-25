@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m Himanshu. I have 7+ years expereince as Web developer. SPECIALLY In Respective Technologies :-
+  1)Core PHP , CodeIgniter
+  2)Shopiy , Wordpress ,Wix , Media Wiki
+  3)Jqyery , Javascript & Ajax
+- 👀 I’m interested in Travelling,Play cricket.
+- 🌱 I’m currently learning New
+- 💞️ I’m looking to collaborate on all kind of Web Developments.
+- 📫 How to reach me : bhatt9494@gmail.com
